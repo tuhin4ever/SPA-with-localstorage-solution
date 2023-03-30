@@ -10,12 +10,15 @@ import Contact from "./components/Contact/Contact";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  
   return (
     <div>
       <div className="header  m-auto mb-3 ">
         <Header></Header>
-      </div>      
+      </div>
+      <div className="home-container col-md-8">
+          
+      </div>
+
       <Contact></Contact>
     </div>
   );
