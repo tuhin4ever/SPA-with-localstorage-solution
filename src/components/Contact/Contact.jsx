@@ -25,7 +25,7 @@ const Contact = () => {
               placeholder="Type your message "
             />
             <br />
-            <button class="btn btn-info w-75 p-3 font-weight-bold text-uppercase">
+            <button className="btn btn-info w-75 p-3 font-weight-bold text-uppercase">
               Send Email
             </button>
           </div>
